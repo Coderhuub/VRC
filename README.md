@@ -1,2 +1,3 @@
-# VRC
-A vertical redundancy check (VRC) is a way of checking for errors in a block of data
+# Error detection techniques
+1) C++ program of Vertical redundancy check(VRC)
+2)C++ program of Vertical redundancy check (string)
